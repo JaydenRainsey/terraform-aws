@@ -1,0 +1,1 @@
+## This is a terraform template for AWS resources
