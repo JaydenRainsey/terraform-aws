@@ -1,8 +1,8 @@
 locals {
-    service_name = "my-project"
-    owner = "Jayden"
+  service_name = "my-project"
+  owner        = "Jayden"
 }
 
 output "owner-name" {
-    value = local.owner
+  value = local.owner
 }
